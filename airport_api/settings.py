@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "airport",
+    "user",
     "rest_framework",
 ]
 
@@ -72,7 +73,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = "airport_api.wsgi.application"
 
-
+AUTH_USER_MODEL = "user.User"
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
