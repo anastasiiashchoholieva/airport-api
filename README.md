@@ -56,3 +56,12 @@ and then generate access token:
 - Creating airplanes
 - Adding flights
 - Filtering routes and flights
+
+
+## Documentation
+
+ ---
+
+ * api/doc/swagger/: Documentation using Swagger
+
+![doc_api.png](documentation_image%2Fdoc_api.png)
