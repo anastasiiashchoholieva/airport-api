@@ -3,6 +3,11 @@
 ***
 
 API service for airport management written on DRF
+
+DB structure
+
+![db_structure.png](documentation_image%2Fdb_structure.png)
+
 ## Installing using GitHub
 
 ***
